@@ -18,8 +18,3 @@ A simple and visually appealing **Book Inventory App** built with **HTML** and *
 
 - **HTML5** – Structure of the page.
 - **CSS3** – Styling, gradients, badges, and table design.
-
----
-
-## 📂 Project Structure
-
